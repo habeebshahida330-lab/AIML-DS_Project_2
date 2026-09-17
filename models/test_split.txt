@@ -1,0 +1,10 @@
+processed_faces\kl_rahul\images (5)_face.jpg,0
+processed_faces\kl_rahul\images 7_face.jpg,0
+processed_faces\ms_dhoni\images_face.jpg,1
+processed_faces\ms_dhoni\images (2)_face.jpg,1
+processed_faces\rohit_sharma\images 1_face.jpg,2
+processed_faces\rohit_sharma\images 4_face.jpg,2
+processed_faces\sachin_tendulkar\images 3_face.jpg,3
+processed_faces\sachin_tendulkar\images 9_face.jpg,3
+processed_faces\virat_kohli\images (3)_face.jpg,4
+processed_faces\virat_kohli\images (8)_face.jpg,4
